@@ -1,5 +1,5 @@
 # scikit_genderclassification
-A simple machine learning program that use Scikit to predict gender based on the given data
+A simple machine learning program that use Scikit's various models to predict gender based on the given dataset
 
  Dependencies
 
@@ -8,3 +8,10 @@ numpy (pip install numpy)
 scipy (pip install scipy)
 
 #using Anaconda is recommended 
+
+
+I have compared three Scikit model using the same dataset
+
+#for more cool stuff visit my blog Hardwaredecrypt 
+vist:http://hardwaredecrypt.com/
+ 
