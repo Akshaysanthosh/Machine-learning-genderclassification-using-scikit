@@ -1,6 +1,6 @@
 
 """
-Gender classification app using scikit-learn
+Gender classification  using desicion three model on scikit
 
 This is a simple program that use scikit libarary to classify gender based on input data 
 and make a prediction based on that 
